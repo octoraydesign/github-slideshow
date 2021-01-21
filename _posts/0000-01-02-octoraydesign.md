@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Levity is the soul of wit.
 Use the left arrow to go back!
